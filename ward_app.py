@@ -139,7 +139,7 @@ def machine_learning_modeling():
     # Predict button
     if st.button("Predict"):
         # Load the trained model
-        model = joblib.load('linear_regression_ward.pkl')
+        model = joblib.load('linear_regression_ward_only.pkl')
 
         # Prepare input data for prediction, make sure to only put trained features
         # X = [['Stake','MultiRoute','CompletedRoutes','RouteDoors','OverallTime']] from modelling
