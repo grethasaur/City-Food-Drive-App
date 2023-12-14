@@ -174,7 +174,7 @@ from gradientai import Gradient
 
 def chatbot():
     # Streamlit title and description
-    st.title("Interactive Food Drive Assistant")
+    st.title("Chatbot")
     st.write("Ask a question about the Food Drive!")
 
     with Gradient() as gradient:
