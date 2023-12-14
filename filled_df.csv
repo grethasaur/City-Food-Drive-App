@@ -1,0 +1,529 @@
+,Location,Stake,Ward,AdultVolunteer,YouthVolunteer,Bags,RouteTime,MultiRoute,Comments,CompletedRoutes,RouteDoors,OverallTime
+0,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,3,21.0,30.0,No,,1.0,1.0,32.0
+1,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,1,0,2.0,5.0,No,,1.0,1.0,60.109725685785534
+2,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,1,3,7.0,30.0,No,,1.0,7.0,30.0
+3,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,1,1,15.0,15.0,No,,1.0,8.0,15.0
+4,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,1,3,10.0,30.0,No,,1.0,10.0,30.0
+5,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,1,11.0,60.0,Yes,,2.0,11.0,60.0
+6,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,1,12.0,15.0,No,,1.0,12.0,40.0
+7,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,2,12.0,30.0,No,,1.0,12.0,60.109725685785534
+8,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,4,0,14.0,45.0,No,,1.0,13.0,45.0
+9,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,1,0,17.0,30.0,No,,1.0,13.0,35.0
+10,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,3,15.0,45.0,No,,1.0,13.0,35.0
+11,North Stake Centre,Edmonton North Stake,Griesbach Ward,3,0,17.0,45.0,No,,1.0,13.0,60.0
+12,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,0,20.0,45.0,No,,1.0,13.0,45.0
+13,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,1,2,18.0,40.0,No,,1.0,14.0,40.0
+14,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,3,15.0,60.0,No,,1.0,14.0,60.0
+15,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,3,14.0,25.0,No,,1.0,14.0,25.0
+16,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,1,36.0,45.0,No,An extra bag of rice not labelled,1.0,15.0,60.109725685785534
+17,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,0,15.0,45.0,No,,1.0,15.0,45.0
+18,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,4,0,17.0,30.0,No,,1.0,17.0,60.109725685785534
+19,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,5,0,29.0,30.0,No,,1.0,19.0,30.0
+20,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,3,25.0,35.0,No,,1.0,19.0,33.0
+21,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,2,24.0,30.0,No,,1.0,20.0,30.0
+22,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,0,40.0,60.0,No,,1.0,20.0,65.0
+23,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,0,23.0,30.0,No,,1.0,20.0,30.0
+24,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,1,25.0,55.0,No,,1.0,20.0,55.0
+25,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,3,27.0,60.0,No,,1.0,21.0,60.0
+26,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,27.0,40.0,No,,1.0,23.0,40.0
+27,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,30.0,60.0,Yes,,2.0,23.0,75.0
+28,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,3,23.0,58.0,No,,1.0,23.0,58.0
+29,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,24.0,30.0,No,156,1.0,23.0,60.109725685785534
+30,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,0,20.0,55.0,No,,1.0,25.0,55.0
+31,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,3,1,25.0,60.0,No,129,1.0,25.0,60.109725685785534
+32,Londonderry Chapel,Bonnie Doon Stake,Strathcona Married Student Ward,1,5,25.0,45.0,No,"From Sherwood Park, Route # 179",1.0,25.0,60.109725685785534
+33,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,1,25.0,35.0,No,,1.0,26.0,35.0
+34,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,31.0,58.0,No,It was awesome,1.0,27.0,60.109725685785534
+35,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,32.0,45.0,No,,1.0,27.0,60.109725685785534
+36,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,1,0,11.0,20.0,No,,1.0,29.0,13.0
+37,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,3,30.0,35.0,No,,1.0,30.0,35.0
+38,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,34.0,60.0,Yes,,2.0,32.0,60.109725685785534
+39,Gateway Stake Centre,Gateway Stake,Rio Vista Ward,2,1,45.0,60.0,Yes,"Very poor this year. The bags said Walmart so lots of people didn't volunteer, yellow bags are better",2.0,36.0,54.0
+40,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,1,3,50.0,60.0,No,,1.0,38.0,65.0
+41,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,0,18.0,120.0,Yes,,2.0,40.0,120.0
+42,North Stake Centre,Edmonton North Stake,Griesbach Ward,3,2,43.0,60.0,Yes,,2.0,40.0,60.0
+43,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,0,5.0,30.0,No,,1.0,40.0,30.0
+44,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,0,7.0,45.0,No,,1.0,40.0,45.0
+45,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,5,1,6.0,15.0,No,,1.0,40.0,60.0
+46,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,4,45.0,120.0,No,,1.0,45.0,109.0
+47,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,1,17.0,60.0,No,,1.0,50.0,75.0
+48,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,15.0,20.0,No,,1.0,50.0,60.109725685785534
+49,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,25.0,40.0,No,,1.0,60.0,38.0
+50,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,3,0,8.0,30.0,No,,1.0,60.0,30.0
+51,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,2,72.0,45.0,Yes,,3.0,63.0,81.0
+52,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,3,65.0,65.0,Yes,,3.0,65.0,65.0
+53,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,0,16.0,20.0,No,"Assign larger route area's, suggest we don't start to pick up until 1:00 pm. Some people mentioned they did not think we would be there that early: 11:30, it may result in more bags. A thank you card left in their mailbox may be nice...if donated by a business. Include a longer list of things the foodbank would like to see. 
+So, I spoke to people getting food at a food bank and here are some things I learned from those in need:
+1. Everyone donates Kraft Mac and Cheese in the box. They can rarely use it because it needs milk and butter which is hard to get from regular food banks.
+2. Boxed milk is a treasure, as kids need it for cereal which they also get a lot of.
+3. Everyone donates pasta sauce and spaghetti noodles.
+4. They cannot eat all the awesome canned veggies and soup unless you put a can opener in too or buy pop tops.
+5. Oil is a luxury but needed for Rice a-Roni which they also get a lot of.
+6. Spices or salt and pepper would be a real Christmas gift.
+7. Tea bags and coffee make them feel like you care.
+8. Sugar and flour are treats.
+9. They fawn over fresh produce donated by farmers and grocery stores.
+10. Seeds are cool in Spring and Summer because growing can be easy for some.
+11. They rarely get fresh meat.
+12. Tuna and crackers make a good lunch.
+13. Hamburger Helper goes nowhere without ground beef.
+14. They get lots of peanut butter and jelly but usually not sandwich bread.
+15. Butter or margarine is nice too.
+16. Eggs are a real commodity.
+17. Cake mix and frosting makes it possible to make a childs birthday cake.
+18. Dishwashing detergent is very expensive and is always appreciated.
+19. Feminine hygiene products are a luxury and women will cry over that.
+20. Everyone loves Stove Top Stuffing..",1.0,67.0,30.0
+54,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,0,8.0,15.0,No,,1.0,68.0,38.0
+55,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,2,2,10.0,10.0,No,,1.0,70.0,28.0
+56,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,2,4,80.0,105.0,Yes,,4.0,74.0,105.0
+57,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,2,17.0,51.0,No,,1.0,75.0,54.0
+58,North Stake Centre,Edmonton North Stake,Griesbach Ward,3,0,16.0,30.0,No,,1.0,75.0,30.0
+59,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,35.0,75.0,Yes,,3.0,75.0,55.0
+60,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,3,1,100.0,135.0,Yes,,2.0,80.0,60.109725685785534
+61,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,4,1,15.0,15.0,No,,1.0,80.0,15.0
+62,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,0,15.0,40.0,No,,1.0,80.0,88.0
+63,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,4,0,8.0,45.0,No,,1.0,80.0,60.0
+64,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,2,3,22.0,30.0,No,,1.0,80.0,40.0
+65,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,3,7.0,40.0,No,,1.0,90.0,40.0
+66,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,0,18.0,55.0,No,,1.0,90.0,55.0
+67,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,2,15.0,30.0,No,,1.0,90.0,38.0
+68,Bearspaw Chapel,Bonnie Doon Stake,Strathcona Married Student Ward,2,1,10.0,30.0,No,,1.0,90.0,45.0
+69,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,1,12.0,60.0,No,More advertising people and make aware that every should make some donation even one can or anything they can afford,1.0,92.0,60.0
+70,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,3,42.0,30.0,No,,1.0,95.0,53.0
+71,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,0,20.0,45.0,No,,1.0,95.0,89.0
+72,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,0,20.0,60.0,No,,1.0,96.0,60.0
+73,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,16.0,25.0,No,Route 1,1.0,98.0,25.0
+74,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,1.0,30.0,No,Route: 136,1.0,100.0,34.0
+75,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,0,20.0,20.0,No,,1.0,100.0,20.0
+76,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,1,1,15.0,60.0,No,,1.0,100.0,60.109725685785534
+77,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,3,30.0,75.0,No,,1.0,100.0,75.0
+78,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,1,1,30.0,60.0,No,,1.0,100.0,60.109725685785534
+79,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,2,15.0,60.0,No,,1.0,100.0,75.0
+80,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,3,3,30.0,60.0,Yes,,2.0,100.0,73.0
+81,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,0,9.0,20.0,No,,1.0,100.0,20.0
+82,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,3,16,25.0,45.0,No,,1.0,100.0,45.0
+83,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,3,18.0,120.0,No,No comments,1.0,100.0,56.0
+84,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,20.0,35.0,No,Route 33,1.0,100.0,40.0
+85,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,2,19.0,30.0,No,,1.0,100.0,30.0
+86,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,16.0,60.0,No,Route: 125,1.0,100.0,65.0
+87,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,4,0,25.0,60.0,No,,1.0,100.0,60.0
+88,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,2,15.0,60.0,No,,1.0,106.0,50.0
+89,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,3,29.0,60.0,No,,1.0,107.0,60.0
+90,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,3,2,20.0,40.0,No,Route bowen: 41-113,1.0,107.0,40.0
+91,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,3,4,19.0,20.0,Yes,,2.0,109.0,20.0
+92,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,0,21.0,40.0,No,,1.0,109.0,40.0
+93,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,3,39.0,120.0,No,,1.0,110.0,109.0
+94,Londonderry Chapel,Bonnie Doon Stake,Strathcona Married Student Ward,2,0,16.0,30.0,No,"Route 178, for 16 houses",1.0,110.0,35.0
+95,Bonnie Doon Stake Centre,Bonnie Doon Stake,Strathcona Married Student Ward,2,0,14.0,45.0,No,,1.0,110.0,35.0
+96,Bearspaw Chapel,YSA Stake,Windsor Park YSA Ward,1,2,50.0,60.0,Yes,Good,2.0,110.0,58.0
+97,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,12.0,25.0,No,,1.0,110.0,25.0
+98,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,6.0,35.0,No,Route 136,1.0,110.0,65.0
+99,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,0,17.0,60.0,No,,1.0,110.0,60.109725685785534
+100,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,2,20.0,60.0,No,Very thorough. Route: 212,1.0,110.0,107.0
+101,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,1,2,12.0,20.0,No,Route: 46,1.0,110.0,25.0
+102,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,2,17.0,40.0,Yes,Would be helpful to have print outs to put on car saying volunteer,1.0,113.0,50.0
+103,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,1,16.0,30.0,No,,1.0,114.0,21.0
+104,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,13.0,15.0,No,,1.0,115.0,30.0
+105,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,5,15.0,25.0,No,,1.0,115.0,84.0
+106,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,15.0,40.0,No,,1.0,115.0,40.0
+107,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,15.0,40.0,No,,1.0,115.0,40.0
+108,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,Stony Plain Ward,2,5,20.0,20.0,No,,1.0,115.0,150.0
+109,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,0,30.0,30.0,No,no comments,1.0,115.0,30.0
+110,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,15.0,25.0,No,,1.0,116.0,25.0
+111,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,2,11.0,35.0,No,57,1.0,116.0,60.109725685785534
+112,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,3,22.0,40.0,No,,1.0,118.0,40.0
+113,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,3,25.0,40.0,No,We did this route last year and the turn out was not good either.,1.0,118.0,48.0
+114,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,5,16.0,30.0,No,,1.0,120.0,30.0
+115,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,3,20.0,60.0,No,,1.0,120.0,60.0
+116,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,1,10.0,52.0,No,,1.0,120.0,52.0
+117,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,2,10.0,20.0,Yes,half of the route had no flyer signs,2.0,120.0,20.0
+118,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,15.0,30.0,No,Route: 108,1.0,121.0,38.0
+119,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,0,20.0,60.0,No,Less bags than number of houses,1.0,123.0,60.0
+120,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,3,1,28.0,30.0,No,,1.0,123.0,30.0
+121,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,0,44.0,75.0,No,,1.0,125.0,85.0
+122,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,0,16.0,40.0,No,,1.0,125.0,40.0
+123,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,1,1,18.0,45.0,No,No comment,1.0,125.0,36.0
+124,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,24.0,60.0,No,Route shows 170 house but there 128,1.0,128.0,60.0
+125,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,Stony Plain Ward,2,0,140.0,30.0,No,It was very simple and do-able,1.0,130.0,60.0
+126,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,1,4,30.0,30.0,No,,1.0,130.0,30.0
+127,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,1,0,33.0,45.0,Yes,No comu,2.0,130.0,45.0
+128,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,35.0,70.0,No,,1.0,134.0,67.0
+129,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,0,16.0,30.0,No,,1.0,135.0,30.0
+130,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,2,25.0,45.0,No,154,1.0,135.0,60.109725685785534
+131,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,1,14.0,60.0,No,,1.0,135.0,70.0
+132,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,0,15.0,45.0,No,We went through the route twice. Donations on the route are down dramatically. Less than half of the usual of the last 10 years.,1.0,135.0,35.0
+133,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,1,5.0,17.0,No,,1.0,135.0,17.0
+134,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,2,0,10.0,30.0,No,,1.0,136.0,30.0
+135,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,6.0,19.0,Yes,,2.0,136.0,18.0
+136,Gateway Stake Centre,Gateway Stake,Wainwright Branch,2,0,23.0,30.0,No,People with whom i interact on Tuesdays gave more,1.0,137.0,30.0
+137,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,0,20.0,60.0,No,,1.0,137.0,60.0
+138,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,2,9.0,20.0,No,,1.0,138.0,20.0
+139,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,1,21.0,35.0,No,Map should be more specific,1.0,139.0,32.0
+140,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,0,18.0,63.0,No,,1.0,140.0,63.0
+141,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,0,17.0,15.0,No,,1.0,140.0,15.0
+142,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,36.0,60.0,Yes,"Way less donations this year, not as much as usual",2.0,140.0,73.0
+143,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,1,4,17.0,25.0,No,,1.0,141.0,22.0
+144,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,0,28.0,70.0,No,It would have been nice to drop off a thank you card to those who donated as in past years.,1.0,142.0,60.0
+145,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,1,3,12.0,30.0,No,,1.0,142.0,30.0
+146,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,1,2,31.0,60.0,No,,1.0,143.0,55.0
+147,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,3,0,18.0,45.0,No,,1.0,143.0,45.0
+148,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,2,35.0,75.0,Yes,,2.0,144.0,74.0
+149,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,3,37.0,30.0,Yes,None,2.0,144.0,30.0
+150,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,3,1,18.0,25.0,Yes,,2.0,144.0,30.0
+151,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,8.0,30.0,No,,1.0,144.0,30.0
+152,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,0,22.0,30.0,No,Stopped to talk to a few neighbours,1.0,145.0,45.0
+153,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,1,36.0,40.0,No,,1.0,145.0,44.0
+154,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,0,14.0,24.0,Yes,,2.0,146.0,24.0
+155,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,20,20.0,60.0,No,Great experience to thank our neighbors for their generosity.,1.0,147.0,60.0
+156,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,1,14.0,60.0,No,"Several houses on our route had no soliciting signs or have been empty so that decreased the number of people who knew about it. Usually we do 2 routes but this year that wasn't possible.
+Our suggestion for the future to promote it is to get city permission to put a couple of banners on the Whitemud and Yellowhead highway spread out on overpasses (at least 2 to 3 each) at least a week before the flyers are delivered. Also if we can get permission to put the lawn signs out on center meridians on busy streets (ours is 34st) then it would get the local community notified in advance. This would be facing both ways so it would get maximun visability. Maybe the lawn signs and looking after them could be a special assignmnet overseen by the coordinator of the ward. Would there be more contact and recruitment of ward members by assigning 2 families to work together to organize the food drive flyers etc?
+Another idea is if there is a lack of routes filled can the missionaries help deliver some routes? Or an email going out to ask if anyone is up to taking on an additinal one?I know that we have the bulletin but sometimes there is so much i formation in there that I dont get to read it all the way through. A seperate email would be great to get the ward thknking about it maybe 6 to 4 weeks in advance. We feel badly that the extra routes we usually sign up for didn't seem to be done as we didn't see flyers or bags. This year we had several things happen that meant we couldn't realistically do more. I am sad that was the case. Those areas have donated generously in the past.
+What about contacting the schools in our ward as well and asking to put a collection box at the office or recruiting families to help that way. Or doing a presentation to get kids helping deliver flyers after school with supervision by a couple of ward members. We could have done more pickups just not more flyers. I know my daughter's junior high has a point system so there is some friendly competition with bonus points if they do service.
+I know our ward did get together this year with at least one community league and had a table at their event.....what about reaching out to other community leagues and making connections in the spring so it can be planned for in the fall? Other than social media like Facebook would there be sharable links for ward members or ways to promote the event in our community? My husband said he heard it on the radio. What about quick tv commercials promoting it during the local news the week before the food drive?
+I am sure we could recruit volunteer donations of flyers or banners or radio time by companies. Or at least products given at a highly discounted cost. Maybe the youth could also design posters for their schools to promote the food drive. Another idea is what about collaborating with other religious organizations in the city to deliver flyers and collect donations? Maybe it could be tried with 1 or 2 different faiths next year and expand in the future to including more. I dont know how we would choose but there is much good in the hearts of our neighbors and friends to be made. I would also like to suggest that the stake and wards consider having a donation box at the church year round or at least at activities. Maybe not just for the food drive but for hygeine or sesonal items. There is much need in our community and it would be so lovely if we could encourage more service directly impacting our neighbors and community. This could also help keep our church members outwardly focused and be mindful of ways we can truly love one another.",1.0,147.0,90.0
+157,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,1,4,16.0,20.0,Yes,"It was great, the kids had fun!",2.0,147.0,20.0
+158,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,3,4,14.0,60.0,Yes,,2.0,147.0,85.0
+159,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,3,20.0,45.0,No,Had kids helping ( sometimes slower),1.0,147.0,45.0
+160,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,4,3,26.0,30.0,No,"Dont separate D flyers from bags, takes longer to drop off",1.0,148.0,36.0
+161,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,0,35.0,60.0,No,We enjoyed the experience,1.0,148.0,120.0
+162,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,3,1,19.0,40.0,No,,1.0,150.0,50.0
+163,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,0,8.0,20.0,No,,1.0,150.0,30.0
+164,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,2,22.0,60.0,No,,1.0,150.0,45.0
+165,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,1,21.0,45.0,Yes,,2.0,150.0,45.0
+166,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,26.0,45.0,No,,1.0,150.0,40.0
+167,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,3,25.0,45.0,No,,1.0,150.0,75.0
+168,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,1,1,14.0,45.0,No,,1.0,150.0,45.0
+169,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,2,6.0,45.0,No,130,1.0,150.0,60.109725685785534
+170,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,3,1,34.0,60.0,No,,1.0,150.0,96.0
+171,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,2,9.0,60.0,No,,1.0,150.0,60.0
+172,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,25.0,30.0,No,,1.0,150.0,10.0
+173,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,2,20.0,45.0,No,,1.0,151.0,123.0
+174,Coronation Park Chapel,North Edmonton,Belmead,1,2,15.0,52.5,No,,1.0,153.0,89.0
+175,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,17.0,60.0,No,,1.0,153.0,55.0
+176,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,4,18.0,45.0,No,,1.0,154.0,45.0
+177,Coronation Park Chapel,North Edmonton,Belmead,1,1,30.0,45.666666666666664,No,,1.0,154.0,50.036575228595176
+178,Coronation Park Chapel,North Edmonton,Belmead,1,1,15.0,46.333333333333336,No,,1.0,155.0,55.07315045719036
+179,Coronation Park Chapel,Edmonton North Stake,Stony Plain Ward,1,0,30.0,47.0,Yes,Belmed +195,2.0,155.0,60.109725685785534
+180,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,4,0,24.0,40.0,No,,1.0,155.0,45.0
+181,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,3,32.0,30.0,No,Super dopey dope,1.0,157.0,45.0
+182,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,5,3,24.0,40.0,No,,1.0,157.0,40.0
+183,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,4,5,34.0,55.0,No,,1.0,157.0,55.0
+184,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,1,1,30.0,45.0,No,,1.0,158.0,40.0
+185,Bearspaw Chapel,Bonnie Doon Stake,Strathcona Married Student Ward,2,0,11.0,38.0,No,There were many no soliciting signs on our route. Many houses still had bags in the mailboxes and appeared uninhabited.,1.0,158.0,43.0
+186,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,2,15.0,55.0,No,,1.0,158.0,70.0
+187,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,1,20.0,50.0,No,Im not sure if you are asking how much time to deliver the route or pick it up. Questions should be more specific.,1.0,158.0,45.0
+188,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,3,0,22.0,90.0,Yes,,2.0,158.0,180.0
+189,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,0,12.0,35.0,No,,1.0,159.0,25.0
+190,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,3,0,14.0,30.0,No,,1.0,159.0,40.0
+191,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,4,30.0,45.0,No,,1.0,160.0,45.0
+192,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,0,20.0,70.0,No,,1.0,160.0,75.0
+193,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,0,23.0,25.0,No,,1.0,160.0,25.0
+194,North Stake Centre,Edmonton North Stake,Namao Ward,2,0,23.0,100.0,No,,1.0,160.0,100.0
+195,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,3,1,40.0,60.0,No,,1.0,160.0,44.0
+196,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,2,25.0,45.0,No,,1.0,160.0,120.0
+197,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,1,20.0,60.0,No,Great,1.0,161.0,55.0
+198,Coronation Park Chapel,North Edmonton,Belmead,3,0,12.0,52.5,No,,1.0,161.0,82.5
+199,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,2,15.0,45.0,Yes,,2.0,162.0,110.0
+200,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,0,8.0,60.0,No,,1.0,162.0,60.0
+201,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,6,5,48.0,49.0,No,,1.0,162.0,42.0
+202,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,2,20.0,120.0,Yes,,2.0,163.0,65.0
+203,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,0,23.0,60.0,No,,1.0,163.0,90.0
+204,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,3,3,55.0,47.0,No,,1.0,165.0,47.0
+205,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,2,60.0,60.0,Yes,"120, 118, 119",3.0,165.0,60.109725685785534
+206,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,1,30.0,40.0,Yes,,2.0,165.0,90.0
+207,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,0,11.0,15.0,No,,1.0,165.0,15.0
+208,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,3,4,25.0,35.0,Yes,,2.0,166.0,86.0
+209,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,24.0,40.0,No,It was great. So fun,1.0,167.0,50.0
+210,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,6.0,15.0,No,,1.0,168.0,15.0
+211,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,4,0,26.0,50.0,No,,1.0,168.0,50.0
+212,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,2,20.0,60.0,Yes,,1.0,168.0,65.0
+213,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,1,44.0,60.0,Yes,It was great,1.0,168.0,71.0
+214,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,4,24.0,40.0,No,,1.0,169.0,40.0
+215,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,1,3,11.0,30.0,Yes,,2.0,170.0,30.0
+216,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,7,0,17.0,40.0,No,,1.0,170.0,42.0
+217,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,17.0,40.0,No,,1.0,170.0,40.0
+218,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,1,1,24.0,90.0,No,,1.0,170.0,90.0
+219,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,3,0,30.0,45.0,No,,1.0,171.0,45.0
+220,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,0,30.0,50.0,No,There were lots of homes with the bags in their mailboxes,1.0,172.0,50.0
+221,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,1,35.0,40.0,Yes,,2.0,172.0,60.0
+222,North Stake Centre,Edmonton North Stake,Namao Ward,1,3,22.0,40.0,No,,1.0,172.0,40.0
+223,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,1,2,32.0,35.0,No,40 houses dont allowed put bags,1.0,173.0,35.0
+224,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,2,4,29.0,40.0,Yes,,3.0,174.0,40.0
+225,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,2,32.0,60.0,No,,1.0,174.0,75.0
+226,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,30.0,55.0,No,No flyer houses -13,1.0,174.0,55.0
+227,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,0,19.0,65.0,No,,1.0,174.0,65.0
+228,North Stake Centre,Edmonton North Stake,Namao Ward,2,0,12.0,100.0,No,,1.0,175.0,95.0
+229,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,1,4,13.0,35.0,No,,1.0,177.0,40.0
+230,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,1,4,12.0,20.0,Yes,,2.0,178.0,20.0
+231,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,4,9,32.0,75.0,No,,1.0,178.0,75.0
+232,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,0,20.0,20.0,No,,1.0,179.0,20.0
+233,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,1,35.0,30.0,No,,1.0,179.0,65.0
+234,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,3,35.0,60.0,No,Route: 16,1.0,180.0,60.0
+235,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,3,31.0,50.0,No,Sign for cars would be good and while dropping they should give shirts that show they are doing voluntary work,1.0,180.0,50.0
+236,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,1,1,40.0,150.0,Yes,No comment,2.0,180.0,95.0
+237,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,3,1,18.0,23.0,No,,1.0,180.0,23.0
+238,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,12.0,50.0,No,Route 182,1.0,180.0,63.0
+239,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,1,45.0,90.0,Yes,"1- 130,2-267. Need to change bags",1.0,180.0,90.0
+240,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,1,17.0,30.0,No,,1.0,182.0,60.109725685785534
+241,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,3,5,10.0,60.0,No,it was good,1.0,184.0,60.0
+242,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,3,1,28.0,27.0,No,,1.0,184.0,27.0
+243,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,28.0,45.0,No,64,1.0,185.0,60.109725685785534
+244,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,2,17.0,37.0,No,,1.0,186.0,37.0
+245,Coronation Park Chapel,North Edmonton,Belmead,2,0,17.0,33.5,No,,1.0,186.0,33.5
+246,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,20.0,30.0,No,,1.0,186.0,30.0
+247,Coronation Park Chapel,North Edmonton,Belmead,2,0,26.0,20.0,No,,1.0,187.0,40.0
+248,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,2,25.0,10.0,No,,1.0,190.0,50.0
+249,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,4,14.0,30.0,No,,1.0,190.0,31.0
+250,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,0,26.0,40.0,Yes,,2.0,191.0,36.0
+251,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,1,42.0,110.0,Yes,"30% first, 15 20 smaller. Routes: 170, 162",2.0,191.0,112.0
+252,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,1,22.0,50.0,No,,1.0,191.0,50.0
+253,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,4,0,23.0,45.0,No,,1.0,192.0,60.0
+254,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,3,0,24.0,35.0,No,It' was a good gig.,1.0,194.0,40.0
+255,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,20.0,60.0,Yes,,2.0,194.0,60.0
+256,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,4,0,42.0,60.0,Yes,,2.0,194.0,96.0
+257,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,1,23.0,32.0,Yes,One and half route,1.0,195.0,32.0
+258,Coronation Park Chapel,North Edmonton,Belmead,1,1,15.0,28.5,No,,1.0,195.0,31.0
+259,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,2,30.0,25.0,No,,1.0,196.0,30.0
+260,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,2,20.0,60.0,No,Some of the empty bags,1.0,197.0,60.0
+261,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,2,17.0,37.0,Yes,,2.0,197.0,37.0
+262,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,4,25.0,34.0,No,,1.0,198.0,34.0
+263,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,20.0,30.0,No,,1.0,198.0,30.0
+264,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,2,19.0,45.0,No,,1.0,198.0,35.0
+265,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,2,65.0,80.0,Yes,,2.0,200.0,80.0
+266,Bearspaw Chapel,Gateway Stake,Beaumont Ward,2,2,20.0,45.0,Yes,,2.0,200.0,110.0
+267,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,4,32.0,45.0,No,No comment,1.0,200.0,73.0
+268,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,3,0,15.0,45.0,Yes,"Routes 34, 29",2.0,200.0,51.0
+269,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,1,2,35.0,45.0,No,50,1.0,200.0,60.109725685785534
+270,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,0,44.0,80.0,No,,1.0,200.0,80.0
+271,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,2,40.0,70.0,Yes,Routes 159 & 160,2.0,200.0,70.0
+272,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,3,30.0,62.0,No,,1.0,200.0,63.0
+273,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,4,40.0,60.0,Yes,177 and 181,2.0,200.0,60.109725685785534
+274,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,3,32.0,52.0,Yes,,1.0,200.0,52.0
+275,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,5,3,55.0,90.0,Yes,,3.0,200.0,90.0
+276,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,100.0,5.0,Yes,,2.0,200.0,49.0
+277,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,10,29.0,40.0,Yes,,3.0,200.0,40.0
+278,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,5,25.0,45.0,No,Yellow bags were better,1.0,200.0,45.0
+279,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,3,28.0,57.0,Yes,,2.0,200.0,57.0
+280,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,2,16.0,60.0,No,,1.0,200.0,50.0
+281,Coronation Park Chapel,North Edmonton,Belmead,2,3,12.0,90.0,No,,1.0,200.0,76.5
+282,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,4,0,56.0,120.0,Yes,,2.0,200.0,103.0
+283,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights Ward,2,1,40.0,30.0,No,,1.0,200.0,45.0
+284,Coronation Park Chapel,North Edmonton,Belmead,2,0,29.0,28.0,No,,1.0,201.0,35.0
+285,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,1,18.0,26.0,No,,1.0,201.0,25.0
+286,Coronation Park Chapel,North Edmonton,Belmead,1,2,16.0,29.0,No,,1.0,201.0,28.5
+287,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,3,21.0,32.0,No,,1.0,202.0,32.0
+288,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,2,25.0,75.0,No,,1.0,202.0,75.0
+289,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,2,28.0,35.0,No,,1.0,203.0,35.0
+290,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,4,23.0,50.0,No,,1.0,203.0,50.0
+291,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,2,34.0,28.0,No,,1.0,203.0,28.0
+292,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,2,10.0,30.0,No,,1.0,205.0,30.0
+293,North Stake Centre,Edmonton North Stake,Griesbach Ward,1,1,23.0,45.0,No,,1.0,206.0,45.0
+294,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,3,4,33.0,30.0,Yes,,3.0,206.0,30.0
+295,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,1,21.0,45.0,No,,1.0,206.0,45.0
+296,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,3,3,37.0,60.0,No,,1.0,206.0,50.0
+297,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,2,33.0,50.0,Yes,,1.0,207.0,50.0
+298,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,4,40.0,37.0,No,,1.0,207.0,60.109725685785534
+299,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,2,35.0,30.0,No,,1.0,207.0,30.0
+300,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,2,3,22.0,35.0,Yes,Route 8 Lee Ridge,2.0,207.0,32.0
+301,Coronation Park Chapel,North Edmonton,Belmead,2,0,18.0,47.5,No,,1.0,207.0,48.5
+302,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,1,1,43.0,60.0,No,,1.0,208.0,65.0
+303,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,1,48.0,44.0,Yes,,2.0,208.0,44.0
+304,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,3,2,30.0,40.0,No,,1.0,210.0,45.0
+305,Coronation Park Chapel,North Edmonton,Belmead,1,3,13.0,155.0,No,,1.0,210.0,64.0
+306,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,0,50.0,270.0,Yes,,1.0,210.0,83.0
+307,North Stake Centre,Edmonton North Stake,Namao Ward,1,4,24.0,40.0,No,,1.0,211.0,40.0
+308,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,3,0,54.0,75.0,No,,1.0,212.0,80.0
+309,Coronation Park Chapel,North Edmonton,Belmead,2,3,47.0,67.5,No,,1.0,213.0,70.0
+310,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,2,35.0,60.0,No,,1.0,214.0,60.0
+311,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,2,32.0,60.0,Yes,,2.0,215.0,60.0
+312,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,2,40.0,75.0,No,,1.0,215.0,65.0
+313,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,2,36.0,35.0,No,,1.0,216.0,35.0
+314,Coronation Park Chapel,North Edmonton,Belmead,2,1,24.0,28.333333333333332,No,,1.0,216.0,43.36990856192851
+315,Coronation Park Chapel,North Edmonton,Belmead,2,1,37.0,21.666666666666664,No,,1.0,217.0,51.73981712385702
+316,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,5.0,15.0,No,8,1.0,218.0,60.109725685785534
+317,Gateway Stake Centre,Gateway Stake,Rio Vista Ward,7,7,46.0,60.0,No,Fun to do,1.0,219.0,60.0
+318,Coronation Park Chapel,North Edmonton,Belmead,1,1,30.0,56.666666666666664,No,,1.0,219.0,56.666666666666664
+319,Coronation Park Chapel,North Edmonton,Belmead,3,0,25.0,53.333333333333336,No,,1.0,219.0,53.333333333333336
+320,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,3,20.0,50.0,No,,1.0,219.0,50.0
+321,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,24.0,60.0,No,The bags should have the food bank on it not a flyer!!,1.0,220.0,60.0
+322,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,1,46.0,60.0,No,Its awesome,1.0,220.0,60.0
+323,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,1,2,40.0,30.0,No,,1.0,220.0,30.0
+324,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,0,26.0,35.0,No,,1.0,220.0,35.0
+325,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,0,55.0,180.0,No,Route# 132,1.0,225.0,60.109725685785534
+326,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,1,25.0,25.0,No,,1.0,226.0,25.0
+327,Coronation Park Chapel,North Edmonton,Belmead,3,0,57.0,42.5,No,,1.0,226.0,39.0
+328,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,1,40.0,60.0,Yes,Lots of bags weren't seen or picked up by house owners,1.0,228.0,53.0
+329,Coronation Park Chapel,North Edmonton,Belmead,2,2,25.0,52.5,No,,1.0,228.0,49.0
+330,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,1,25.0,45.0,No,,1.0,230.0,45.0
+331,Coronation Park Chapel,North Edmonton,Belmead,2,1,22.0,43.333333333333336,No,,1.0,234.0,50.0
+332,Coronation Park Chapel,North Edmonton,Belmead,1,2,20.0,41.666666666666664,No,,1.0,234.0,55.0
+333,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,2,0,25.0,40.0,No,,1.0,235.0,60.0
+334,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,17.0,60.0,No,Way less donations this year. We were expecting more,1.0,235.0,78.0
+335,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,4,2,59.0,60.0,Yes,,2.0,236.0,60.0
+336,North Stake Centre,Edmonton North Stake,Namao Ward,1,4,22.0,60.0,No,,1.0,236.0,90.0
+337,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,1,15.0,55.0,Yes,,2.0,236.0,55.0
+338,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,4,50.0,45.0,No,More ppl should donate,1.0,236.0,60.0
+339,Coronation Park Chapel,North Edmonton,Belmead,1,0,22.0,50.0,No,,1.0,237.0,61.25
+340,Coronation Park Chapel,North Edmonton,Belmead,2,3,26.0,55.0,No,,1.0,237.0,62.5
+341,Coronation Park Chapel,North Edmonton,Belmead,1,2,25.0,60.0,No,,1.0,239.0,63.75
+342,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,0,40.0,65.0,No,,1.0,239.0,65.0
+343,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,3,50.0,45.0,No,,1.0,240.0,45.0
+344,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,0,35.0,90.0,Yes,,2.0,240.0,75.0
+345,Coronation Park Chapel,North Edmonton,Belmead,2,2,45.0,75.0,No,,1.0,240.0,97.5
+346,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,Stony Plain Ward,2,0,29.0,60.0,Yes,,3.0,240.0,120.0
+347,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,3,49.0,60.0,Yes,I would keep these routes together,2.0,241.0,89.0
+348,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,38.0,90.0,No,,1.0,243.0,90.0
+349,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,1,2,24.0,30.0,No,,1.0,244.0,28.0
+350,Coronation Park Chapel,North Edmonton,Belmead,1,2,25.0,60.0,No,,1.0,245.0,59.0
+351,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,3,0,34.0,90.0,Yes,,2.0,246.0,90.0
+352,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,2,0,25.0,60.0,No,Manageable but have lot of no flywrs,1.0,249.0,60.0
+353,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,1,35.0,60.0,Yes,"Routes 6,7 from calverts",2.0,250.0,57.0
+354,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,3,0,60.0,90.0,No,more people donated than last year yea!!!,1.0,250.0,90.0
+355,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,3,0,35.0,30.0,No,None,1.0,250.0,20.0
+356,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,3,24.0,45.0,Yes,,3.0,250.0,45.0
+357,Coronation Park Chapel,North Edmonton,Belmead,1,0,14.0,43.333333333333336,No,,1.0,254.0,43.333333333333336
+358,Coronation Park Chapel,North Edmonton,Belmead,2,1,27.0,41.666666666666664,No,,1.0,255.0,41.666666666666664
+359,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,3,2,30.0,40.0,Yes,,2.0,256.0,40.0
+360,Coronation Park Chapel,North Edmonton,Belmead,2,1,31.0,42.5,No,,1.0,256.0,45.0
+361,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,1,25.0,45.0,Yes,,2.0,256.0,50.0
+362,Coronation Park Chapel,North Edmonton,Belmead,2,0,35.0,67.5,No,,1.0,257.0,70.0
+363,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,3,60.0,90.0,Yes,,2.0,257.0,90.0
+364,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,5,0,28.0,60.0,Yes,,2.0,260.0,92.0
+365,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,1,4,41.0,25.0,No,,1.0,260.0,70.0
+366,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,1,2,20.0,50.0,Yes,,2.0,260.0,50.0
+367,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,2,11.0,30.0,Yes,,2.0,261.0,33.0
+368,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,2,4,39.0,80.0,Yes,,3.0,262.0,80.0
+369,Coronation Park Chapel,North Edmonton,Belmead,2,0,19.0,73.33333333333333,No,,1.0,264.0,73.33333333333333
+370,Coronation Park Chapel,North Edmonton,Belmead,1,2,28.0,66.66666666666667,No,,1.0,264.0,66.66666666666667
+371,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,0,44.0,60.0,Yes,,2.0,266.0,60.0
+372,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,1,0,29.0,69.0,No,,1.0,266.0,60.0
+373,Coronation Park Chapel,North Edmonton,Belmead,4,0,31.0,54.5,No,,1.0,267.0,50.0
+374,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,27.0,40.0,Yes,First 142 2and 125,2.0,267.0,40.0
+375,Coronation Park Chapel,North Edmonton,Belmead,0,2,30.0,38.75,No,,1.0,267.0,38.75
+376,Coronation Park Chapel,North Edmonton,Belmead,2,0,47.0,37.5,No,,1.0,268.0,37.5
+377,Coronation Park Chapel,North Edmonton,Belmead,2,3,54.0,36.25,No,,1.0,272.0,36.25
+378,North Stake Centre,Edmonton North Stake,Namao Ward,1,3,30.0,35.0,No,,1.0,272.0,35.0
+379,Coronation Park Chapel,North Edmonton,Belmead,2,0,28.0,57.5,No,,1.0,273.0,70.0
+380,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,1,0,25.0,80.0,Yes,,2.0,273.0,105.0
+381,Coronation Park Chapel,North Edmonton,Belmead,1,1,16.0,77.14285714285714,No,,1.0,273.0,98.57142857142857
+382,Coronation Park Chapel,North Edmonton,Belmead,1,1,30.0,74.28571428571429,No,,1.0,273.0,92.14285714285714
+383,Coronation Park Chapel,North Edmonton,Belmead,2,3,37.0,71.42857142857143,No,,1.0,275.0,85.71428571428572
+384,Coronation Park Chapel,North Edmonton,Belmead,0,2,18.0,68.57142857142857,No,,1.0,275.0,79.28571428571428
+385,Coronation Park Chapel,North Edmonton,Belmead,3,1,38.0,65.71428571428571,No,,1.0,278.0,72.85714285714286
+386,Coronation Park Chapel,North Edmonton,Belmead,1,3,55.0,62.85714285714286,No,,1.0,279.0,66.42857142857143
+387,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,3,3,40.0,60.0,Yes,,2.0,280.0,60.0
+388,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,1,0,19.0,60.0,Yes,,2.0,280.0,63.0
+389,Coronation Park Chapel,North Edmonton,Belmead,1,1,20.0,61.666666666666664,No,,1.0,280.0,65.0
+390,Coronation Park Chapel,North Edmonton,Belmead,3,3,19.0,63.333333333333336,No,,1.0,281.0,67.0
+391,Coronation Park Chapel,North Edmonton,Belmead,1,0,23.0,65.0,No,,1.0,281.0,69.0
+392,Coronation Park Chapel,North Edmonton,Belmead,2,3,61.0,66.66666666666667,No,,1.0,284.0,71.0
+393,Coronation Park Chapel,North Edmonton,Belmead,1,2,31.0,68.33333333333333,No,,1.0,284.0,73.0
+394,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,2,0,44.0,70.0,Yes,Equal no of bags collected like last year,1.0,285.0,75.0
+395,Coronation Park Chapel,North Edmonton,Belmead,2,2,40.0,69.23076923076923,No,,1.0,288.0,75.38461538461539
+396,Coronation Park Chapel,North Edmonton,Belmead,2,3,32.0,68.46153846153847,No,,1.0,288.0,75.76923076923077
+397,Coronation Park Chapel,North Edmonton,Belmead,1,0,35.0,67.6923076923077,No,,1.0,288.0,76.15384615384616
+398,Coronation Park Chapel,North Edmonton,Belmead,1,2,31.0,66.92307692307692,No,,1.0,289.0,76.53846153846153
+399,Coronation Park Chapel,North Edmonton,Belmead,1,3,13.0,66.15384615384616,No,,1.0,289.0,76.92307692307692
+400,Coronation Park Chapel,North Edmonton,Belmead,2,3,21.0,65.38461538461539,No,,1.0,289.0,77.3076923076923
+401,Coronation Park Chapel,North Edmonton,Belmead,3,0,43.0,64.61538461538461,No,,1.0,293.0,77.6923076923077
+402,Coronation Park Chapel,North Edmonton,Belmead,1,1,33.0,63.84615384615385,No,,1.0,293.0,78.07692307692308
+403,Coronation Park Chapel,North Edmonton,Belmead,1,3,80.0,63.07692307692308,No,,1.0,296.0,78.46153846153847
+404,Coronation Park Chapel,North Edmonton,Belmead,1,0,33.0,62.30769230769231,No,,1.0,297.0,78.84615384615384
+405,Coronation Park Chapel,North Edmonton,Belmead,2,3,27.0,61.53846153846154,No,,1.0,298.0,79.23076923076923
+406,Coronation Park Chapel,North Edmonton,Belmead,1,1,38.0,60.76923076923077,No,,1.0,299.0,79.61538461538461
+407,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,2,1,80.0,60.0,Yes,,2.0,300.0,80.0
+408,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,0,38.0,90.0,Yes,"2twice over. Routes: 145,146",2.0,300.0,114.0
+409,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,6,0,20.0,30.0,No,,1.0,300.0,30.0
+410,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,1,2,30.0,30.0,No,,1.0,300.0,30.0
+411,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,4,0,65.0,60.0,No,,1.0,300.0,115.0
+412,Coronation Park Chapel,North Edmonton,Belmead,1,2,16.0,60.0,No,,1.0,300.0,85.0
+413,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,2,43.0,60.0,Yes,Route 45,2.0,300.0,55.0
+414,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,1,1,38.0,90.0,Yes,,2.0,300.0,60.109725685785534
+415,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,45.0,75.0,No,,1.0,300.0,75.0
+416,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,0,5.0,32.0,No,,1.0,302.0,39.0
+417,Coronation Park Chapel,North Edmonton,Belmead,2,0,17.0,51.33333333333333,No,,1.0,303.0,62.0
+418,Coronation Park Chapel,North Edmonton,Belmead,2,3,38.0,70.66666666666666,No,,1.0,305.0,85.0
+419,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,2,0,70.0,90.0,Yes,,1.0,312.0,108.0
+420,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,3,0,52.0,80.0,Yes,,2.0,313.0,67.0
+421,Coronation Park Chapel,North Edmonton,Belmead,2,0,39.0,70.0,No,,1.0,313.0,63.5
+422,Bearspaw Chapel,Gateway Stake,Wild Rose Ward,1,7,6.0,60.0,Yes,Thanks,2.0,315.0,60.0
+423,North Stake Centre,Edmonton North Stake,Namao Ward,2,0,45.0,170.0,No,,1.0,316.0,165.0
+424,Coronation Park Chapel,North Edmonton,Belmead,3,0,30.0,110.0,No,,1.0,316.0,107.5
+425,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,21.0,50.0,Yes,The Walmart bags are very difficult to see and it was awful to deliver them. Having to staple the food drive papers to the bags was very time consuming. People think those bags are just garbage. Id prefer no bag and door hangers over this in the next year. The yellow bags from past years were the best!,2.0,317.0,50.0
+426,Coronation Park Chapel,North Edmonton,Belmead,1,2,53.0,95.0,No,,1.0,320.0,95.0
+427,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,2,37.0,140.0,Yes,"Route1:23 min, r 2: 15, r3: 11",3.0,321.0,140.0
+428,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,2,52.0,125.0,Yes,"1-95,2-99,3-130 3 routes",3.0,324.0,105.0
+429,Coronation Park Chapel,North Edmonton,Belmead,2,0,63.0,102.5,No,,1.0,328.0,92.5
+430,Gateway Stake Centre,Gateway Stake,Lee Ridge Ward,2,2,35.0,80.0,Yes,,2.0,330.0,80.0
+431,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,1,2,29.0,45.0,Yes,,2.0,339.0,45.0
+432,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,2,29.0,45.0,No,,1.0,342.0,45.0
+433,Coronation Park Chapel,North Edmonton,Belmead,1,3,71.0,67.5,No,,1.0,343.0,72.5
+434,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,2,54.0,90.0,No,,1.0,350.0,100.0
+435,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,1,5,70.0,60.0,No,,1.0,350.0,60.0
+436,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,0,30.0,105.0,Yes,,3.0,356.0,105.0
+437,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,2,60.0,80.0,Yes,,2.0,366.0,100.0
+438,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,3,35.0,70.0,No,,1.0,370.0,65.0
+439,Bonnie Doon Stake Centre,Bonnie Doon Stake,Connors Hill Ward,2,3,40.0,180.0,Yes,We had 2 routes,2.0,375.0,60.0
+440,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,2,67.0,60.0,Yes,,2.0,377.0,60.0
+441,Riverbend Stake Centre,Riverbend Stake,Woodbend Ward,2,3,88.0,40.0,No,,1.0,380.0,15.0
+442,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,40.0,90.0,Yes,,3.0,380.0,90.0
+443,North Stake Centre,Edmonton North Stake,Griesbach Ward,3,0,60.0,120.0,Yes,,2.0,380.0,140.0
+444,North Stake Centre,Edmonton North Stake,Namao Ward,1,4,42.0,50.0,No,,1.0,392.0,60.0
+445,Gateway Stake Centre,Gateway Stake,Rio Vista Ward,5,8,33.0,80.0,Yes,"1-132,2-125 ,3-140",3.0,397.0,80.0
+446,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,0,70.0,150.0,Yes,,3.0,400.0,120.0
+447,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,2,1,80.0,70.0,Yes,,2.0,400.0,100.0
+448,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,0,69.0,150.0,Yes,,3.0,400.0,145.0
+449,Riverbend Stake Centre,Riverbend Stake,Drayton Valley Ward,4,0,80.0,120.0,Yes,,4.0,400.0,90.0
+450,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,3,1,117.0,45.0,Yes,,4.0,403.0,90.0
+451,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,1,50.0,135.0,Yes,,2.0,419.0,135.0
+452,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,3,1,40.0,100.0,Yes,,2.0,419.0,100.0
+453,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,3,1,110.0,120.0,Yes,,3.0,430.0,100.0
+454,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,0,44.0,60.0,Yes,,2.0,446.0,60.0
+455,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,3,0,150.0,120.0,Yes,Route 161 133 and 127,4.0,450.0,65.0
+456,Coronation Park Chapel,Edmonton North Stake,Stony Plain Ward,1,2,31.0,45.0,Yes,,2.0,453.0,69.0
+457,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,0,28.0,90.0,Yes,,2.0,460.0,90.0
+458,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,3,50.0,90.0,Yes,"The bags were garbage, they should've been better (maybe use door hangers instead)",3.0,460.0,90.0
+459,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,3,2,68.0,110.0,Yes,:),3.0,466.0,145.0
+460,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,5,39.0,45.0,Yes,"1-216,2-250",2.0,466.0,45.0
+461,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,1,3,77.0,120.0,Yes,,2.0,472.0,120.0
+462,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,2,1,100.0,90.0,Yes,,3.0,482.0,137.0
+463,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,4,59.0,105.0,Yes,"1- 228 ,2-264",2.0,492.0,105.0
+464,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,4,80.0,110.0,Yes,,5.0,500.0,105.0
+465,Riverbend Stake Centre,Riverbend Stake,Greenfield Ward,2,0,100.0,90.0,Yes,,2.0,500.0,95.0
+466,Gateway Stake Centre,Gateway Stake,Ellerslie Ward,2,2,67.0,100.0,Yes,,3.0,501.0,100.0
+467,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,16.0,15.0,Yes,,4.0,520.0,54.0
+468,Morinville,Edmonton North Stake,Namao Ward,2,8,54.5,105.0,Yes,,2.0,525.0,100.0
+469,North Stake Centre,Edmonton North Stake,Griesbach Ward,2,0,93.0,120.0,Yes,,3.0,552.0,120.0
+470,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,2,2,85.0,90.0,Yes,,3.0,585.0,90.0
+471,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,4,0,200.0,240.0,Yes,7 routes in total- evergreen trailer park,7.0,607.0,60.109725685785534
+472,Riverbend Stake Centre,Riverbend Stake,Rutherford Ward,2,2,65.0,90.0,Yes,,2.0,650.0,70.0
+473,Riverbend Stake Centre,Riverbend Stake,Terwillegar Park Ward,1,1,125.0,150.0,Yes,,3.0,650.0,170.0
+474,Gateway Stake Centre,Gateway Stake,Silver Berry Ward,3,5,66.0,115.0,Yes,"1-273, 2-184,3- 197 houses",3.0,654.0,127.0
+475,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,2,124.0,165.0,Yes,,6.0,759.0,165.0
+476,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,1,1,120.0,70.0,Yes,Worst thing ever to staple flyer's. Hard to find the bags since they're grey and not yellow,6.0,900.0,77.0
+477,Riverbend Stake Centre,Riverbend Stake,Rabbit Hill Ward,2,8,200.0,240.0,Yes,,8.0,1420.0,120.0
+478,North Stake Centre,Edmonton North Stake,Namao Ward,2,2,145.0,150.0,Yes,,5.0,2500.0,150.0
+479,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,20.0,25.0,Yes,,1.0,180.0,30.0
+480,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,30.0,45.0,Yes,,2.0,180.0,60.0
+481,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,9.0,45.0,No,183,1.0,180.0,60.109725685785534
+482,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,0,4.0,10.0,No,32,1.0,180.0,60.109725685785534
+483,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,0,3.0,3.0,No,Collecting late bags. Route 156,1.0,180.0,60.109725685785534
+484,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,1,55.0,110.0,Yes,,2.0,180.0,98.0
+485,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,1,0,30.0,75.0,Yes,,2.0,180.0,60.109725685785534
+486,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,4,0,37.0,45.0,Yes,,2.0,180.0,100.0
+487,Coronation Park Chapel,Bonnie Doon Stake,Coronation Park Ward,2,2,37.0,57.0,No,,1.0,180.0,57.0
+488,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,2,4,22.0,20.0,No,Route 141,1.0,180.0,33.0
+489,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,2,2,39.0,60.0,No,,1.0,180.0,60.109725685785534
+490,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,0,12.0,60.0,No,,1.0,180.0,60.0
+491,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,1,2,20.0,20.0,No,Route: 123. Signed up online. Extra doors,1.0,180.0,79.0
+492,Londonderry Chapel,Bonnie Doon Stake,Clareview Ward,3,1,30.0,60.0,No,Route # 221,1.0,180.0,60.109725685785534
+493,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,4,45.0,90.0,Yes,,2.0,180.0,65.0
+494,Londonderry Chapel,Bonnie Doon Stake,Londonderry Ward,1,1,12.0,60.0,Yes,,1.0,180.0,45.0
+495,Bearspaw Chapel,Gateway Stake,Lee Ridge Ward,1,1,23.0,30.0,No,,1.0,180.0,30.0
+496,Bearspaw Chapel,Bonnie Doon Stake,Strathcona Married Student Ward,1,0,13.0,60.0,No,,1.0,180.0,61.0
+497,Bearspaw Chapel,Bonnie Doon Stake,Southgate Ward,2,0,58.0,75.0,Yes,,3.0,180.0,70.0
+498,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,4,5,14.0,30.0,No,,1.0,180.0,30.0
+499,Gateway Stake Centre,Gateway Stake,Crawford Plains Ward,2,0,150.0,150.0,Yes,6. Routes,6.0,180.0,150.0
+500,Bearspaw Chapel,Gateway Stake,Blackmud Creek Ward,2,0,22.0,60.0,No,"One pass driving, one pass walking. Grey bags hard to notice",1.0,180.0,90.0
+501,Parkland (Spruce Grove/Stony Plain),Edmonton North Stake,Stony Plain Ward,1,0,16.0,30.0,No,,1.0,180.0,30.0
