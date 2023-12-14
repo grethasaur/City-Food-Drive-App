@@ -1,6 +1,6 @@
 # City-of-Edmonton-Food-Drive-App
 This includes the Food Drive App. 
-We are still doing finishing touches to the app like putting the blurb for the dashboard but we do have a working prediction model and map generator deployed.
+We are still doing finishing touches to the app like putting the blurb for the dashboard but we do have a working prediction model and map generator deployed. ChatBot is there but its currently not helpful, if the finetuning doest work when I wake up on Thursday, we will be removing it for demo.
 
 
 ## Overview
