@@ -348,6 +348,7 @@ def main():
         predict_volunteer()
     elif app_page == "Neighbourhood Mapping":
         neighbourhood_mapping()
+        google_maps()
     elif app_page == "Data Collection":
         data_collection()
 
