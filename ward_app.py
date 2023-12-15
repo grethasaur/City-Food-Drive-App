@@ -167,7 +167,7 @@ def predict_bag():
     unique_predict = str(uuid.uuid4())
 
     # Create dropdowns for user selection
-    selected_ward = st.selectbox('Select Ward', ward_options, key=unique2_ward)
+    selected_ward = st.selectbox('Select Ward', ward_options, key=unique_ward)
     selected_multiroute = st.selectbox('Select Did you complete more than 1 route?', multiroute_options)
 
     # Numerical features
