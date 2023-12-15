@@ -102,6 +102,7 @@ def machine_learning_modeling():
         'MultiRoute_No': [1, 0],  # Replace with the corresponding one-hot encoded values
         'MultiRoute_Yes': [0, 1]  # Replace with the corresponding one-hot encoded values
         }
+    
     #Ward mapping
     ward_mapping = {selected_ward: [1 if selected_ward == ward else 0 for ward in ward_options] for selected_ward in ward_options}
 
