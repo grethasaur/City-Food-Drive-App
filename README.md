@@ -1,6 +1,5 @@
 # City-of-Edmonton-Food-Drive-App
-This includes the Food Drive App with 2 predictive models, but predict button doesnt work.
-The repo <https://github.com/grethasaur/food-drive-app-2> has only 1 predictive model but prediction button works. Separated github repos because we ran into some deployment issues when using streamlit.
+This includes the Food Drive App with 2 predictive models.
 
 
 ## Overview
